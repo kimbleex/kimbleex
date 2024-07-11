@@ -19,20 +19,6 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 2.8 kB Used in GitHub's Storage 
- > 
-> 🏆 51 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
 ```text
 🌞 Morning                11 commits          █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
 🌆 Daytime                41 commits          ████████████████████░░░░░   78.85 % 
