@@ -20,3 +20,4 @@ jobs:
           SHOW_PROJECTS: False
           SHOW_TIMEZONE: False
           SYMBOL_VERSION: 3
+          SHOW_SHORT_INFO: False
