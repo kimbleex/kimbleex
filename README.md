@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)  ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
 
 ```text
 🌞 Morning                11 commits          █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
+
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Wednesday                29 commits          ██████████████░░░░░░░░░░░   55.77 % 
@@ -41,13 +42,14 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Hangzhou
 
 💬 Programming Languages: 
 No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
+```
 <!--
 🐱‍💻 Projects: 
 No Activity Tracked This Week
@@ -55,7 +57,6 @@ No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
 -->
-```
 
 **I Mostly Code in HTML** 
 
