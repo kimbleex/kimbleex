@@ -21,3 +21,4 @@ jobs:
           SHOW_TIMEZONE: False
           SYMBOL_VERSION: 3
           SHOW_SHORT_INFO: False
+          SHOW_PROFILE_VIEWS: False
