@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome! Guys~ 👋
 
 <!--
 **kimbleex/kimbleex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,12 +48,13 @@ No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
-
+<!--
 🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
+-->
 ```
 
 **I Mostly Code in HTML** 
