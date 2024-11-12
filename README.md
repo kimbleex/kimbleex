@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![暗色](https://raw.githubusercontent.com/kimbleex/kimbleex/output/github-contribution-grid-snake-dark.svg)
+
 <!-- ![亮色](https://raw.githubusercontent.com/kimbleex/kimbleex/output/github-contribution-grid-snake.svg) -->
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286.7%20thousand%20lines%20of%20code-blue)
+![暗色](https://raw.githubusercontent.com/kimbleex/kimbleex/output/github-contribution-grid-snake-dark.svg)
 
 **I'm an Early 🐤** 
 
@@ -29,10 +30,7 @@ Here are some ideas to get you started:
 🌙 Night                  6 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.88 % 
 ```
 
-
-
  Last Updated on 07/11/2024 09:14:48 UTC
 <!--END_SECTION:waka-->
-
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=@kimbleex&layout=compact&hide_border=true&theme=transparent)
 
