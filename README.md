@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-675.1%20thousand%20lines%20of%20code-blue)
-![暗色](https://raw.githubusercontent.com/kimbleex/kimbleex/output/github-contribution-grid-snake-dark.svg)
+
 
 **I'm an Early 🐤** 
 
@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 
  Last Updated on 12/11/2024 03:44:00 UTC
 <!--END_SECTION:waka-->
+![暗色](https://raw.githubusercontent.com/kimbleex/kimbleex/output/github-contribution-grid-snake-dark.svg)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=@kimbleex&layout=compact&hide_border=true&theme=transparent)
 
