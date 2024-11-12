@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![暗色](https://raw.githubusercontent.com/kimbleex/kimbleex/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/kimbleex/kimbleex/output/github-contribution-grid-snake.svg)
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286.7%20thousand%20lines%20of%20code-blue)
 
