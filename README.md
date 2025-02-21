@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 <!-- ![亮色](https://raw.githubusercontent.com/kimbleex/kimbleex/output/github-contribution-grid-snake.svg) -->
 ![暗色](https://raw.githubusercontent.com/kimbleex/kimbleex/output/github-contribution-grid-snake-dark.svg)
 
-![WakaTime Coding Activity](https://wakatime.com/share/@kimbleex/70050a4c-a13b-4f8e-9bfe-daeefb672956.svg)
-
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=@kimbleex&layout=compact&hide_border=true&theme=transparent)
 
